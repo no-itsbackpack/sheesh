@@ -1,6 +1,6 @@
 # sheesh
 
-| [USA](https://github.com/no-itsbackpack/sheesh#usa) | Japan | Nigeria |
+| [USA](#usa) | [Japan](#japan) | [Nigeria](#nigeria) |
 |---|---|---|
 
 ## USA 
